@@ -1,0 +1,7 @@
+{
+  "name": "Lívia Polli - Harmonização Facial Premium",
+  "description": "Uma landing page exclusiva e de alta conversão para a Dra. Lívia Polli, focada em autoridade, confiança e agendamento via WhatsApp.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
